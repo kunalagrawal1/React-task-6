@@ -6,7 +6,7 @@ body {
   border: solid 1px;
   margin: 30px;
   padding: 10px;
-  background: linear-gradient(35deg, rgb(224, 0, 97), rgb(69, 183, 231));
+  background: linear-gradient(35deg,yellow, rgb(69, 183, 231));
 }
 
 .App-logo {
