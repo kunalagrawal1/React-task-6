@@ -6,13 +6,13 @@ function App() {
     <div className="App">
       <header>
         <h1>Portfolio</h1>
-        <h1>Akshaj Singh Bisht</h1>
-        <p>Web Developer</p>
+        <h1>Kunal Agrawal</h1>
+        <p>Mern Full Stack Intern</p>
       </header>
 
       <section id="projects">
         <h2>Projects</h2>
-        <a href="https://drive.google.com/file/d/1006gQZttqM2zxg7ltgVvDShldjfqso0w/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1dH4uwYcpou0woXFYHxh2MUErO4Gc-Kcf/view?usp=sharing">
           Resume
         </a>
       </section>
